@@ -6,6 +6,6 @@
 
 ## Let's Connect
 
-→ [LinkedIn](www.linkedin.com/in/jakobdubeau)
-→ [My Personal Website](jakobdubeau.com)
+→ [LinkedIn](www.linkedin.com/in/jakobdubeau)           
+→ [My Personal Website](jakobdubeau.com)         
 → [Email](mailto:jakobdubeau@gmail.com)
