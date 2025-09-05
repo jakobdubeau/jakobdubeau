@@ -1,4 +1,4 @@
-## Hi, I'm Jakob Dubeau
+## Hi, I'm Jakob
 
 ## About Me
 - studying computer science at the university of ottawa
