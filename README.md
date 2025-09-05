@@ -1,6 +1,4 @@
 ## Hi, I'm Jakob Dubeau
-![Cat](Hera3.jpg)     
-this is my cat hera
 
 ## About Me
 - studying computer science at the university of ottawa
