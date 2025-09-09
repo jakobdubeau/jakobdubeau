@@ -1,8 +1,8 @@
 ## Hi, I'm Jakob
 
 ## About Me
-- Studying computer science at the university of ottawa
-- I love playing games and going to the gym
+- studying computer science at the university of ottawa
+- i love playing games and going to the gym
 
 ## Let's Connect
 
